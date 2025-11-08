@@ -1,4 +1,5 @@
-# MatchMyShade 
+# MatchMyShade <img width="732" height="1551" alt="image" src="https://github.com/user-attachments/assets/67c5eba6-eb31-42e1-b7a3-585760d42473" />
+
 
 ## Your Perfect Foundation Match, Powered by AI
 
@@ -70,7 +71,14 @@ Rate the accuracy of your matches to help us continuously improve our AI and ser
 Save your matches, favorite brands, and shopping preferences for quick access.
 
 ---
+### Product Wireframes
+<img width="2712" height="1119" alt="image" src="https://github.com/user-attachments/assets/f11372a3-aa6c-4a93-9e90-719eae59ccc9" />
+<img width="3213" height="1230" alt="image" src="https://github.com/user-attachments/assets/ac3494b7-0b5a-46ac-9dd1-fdc70169b02f" />
+<img width="1065" height="1125" alt="image" src="https://github.com/user-attachments/assets/6c93727b-72b1-43ee-a39e-6f5faa2d2808" />
 
+you can also view directly via this link: https://www.figma.com/design/7JkQsLqB7LUuHHOGqSyOQX/MatchMyShade?node-id=12-2&p=f&t=cDwymFzfQm7ynM5m-0
+
+---
 ##  Technologies We Use
 
 - **Mobile Development:** React Native (iOS & Android)
