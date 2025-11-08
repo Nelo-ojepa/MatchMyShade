@@ -107,4 +107,5 @@ Copyright © 2025 MatchMyShade. All rights reserved.
 
 ---
 
+  *Last updated: November 8 2025*
 **Made with 💜 for every shade**
