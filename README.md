@@ -91,7 +91,7 @@ Save your matches, favorite brands, and shopping preferences for quick access.
 
 ---
 ### Product Wireframes
-MMS Wireframe Screens.png"
+![Wireframe 1 - Home Screen](\Users\ojepa\Downloads\MMS Wireframe Screens.png)
 
 you can also view directly via this link: https://www.figma.com/design/7JkQsLqB7LUuHHOGqSyOQX/MatchMyShade?node-id=12-2&p=f&t=cDwymFzfQm7ynM5m-0
 
