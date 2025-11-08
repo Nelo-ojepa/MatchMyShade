@@ -8,13 +8,17 @@ MatchMyShade is an AI-powered mobile app that helps black and brown women find t
 ---
 
 ## 📋 Table of Contents
-- [The Problem](#-the-problem-were-solving)
+- [The Problem We're Solving](#the-problem-were-solving)
 - [About The Product](#about-the-product)
-- [What We Do](#-what-we-do)
-- [Target Users](#-our-target-users)
-- [Key Features](#-key-features-mvp)
-- [Technologies](#️-technologies-we-use)
-- [Contact](#-get-in-touch)
+- [What We Do](#what-we-do)
+- [Our Target Users](#our-target-users)
+- [Key Features (MVP)](#key-features-mvp)
+- [Product Wireframes](#product-wireframes)
+- [Technologies We Use](#technologies-we-use)
+- [Why MatchMyShade Matters](#why-matchmyshade-matters)
+- [Get In Touch](#-get-in-touch)
+- [For Brands & Partners](#for-brands--partners)
+- [License](#license)
 
 ---
 ## The Problem We're Solving
