@@ -7,6 +7,16 @@ MatchMyShade is an AI-powered mobile app that helps black and brown women find t
 
 ---
 
+## 📋 Table of Contents
+- [The Problem](#-the-problem-were-solving)
+- [About The Product](#about-the-product)
+- [What We Do](#-what-we-do)
+- [Target Users](#-our-target-users)
+- [Key Features](#-key-features-mvp)
+- [Technologies](#️-technologies-we-use)
+- [Contact](#-get-in-touch)
+
+---
 ## The Problem We're Solving
 
 For decades, black and brown women have struggled with lack of inclusion into different facets of life including in the beauty industry.
