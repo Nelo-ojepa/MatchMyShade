@@ -13,10 +13,10 @@ For decades, black and brown women have struggled with lack of inclusion into di
 For most of them, finding a foundation shade that perfectly matches their skin tone remains one of the biggest frustrations.
 In a 2025 report by arbelle.ai, about 53% of black consumers said they always find it difficult to get beauty products that match their shade.
 Women shopping for makeup products online mostly have to guess their shade and hope they get it right, especially when buying from a brand they haven’t previously used.  Even when visiting a physical makeup store, they have to sit through lots of patch tests or ‘swatches’ just to find their perfect shade. “I’ve gone through six or seven foundation swatches trying to find one that matches...” says a black female customer from a research conducted by McKinsey and Co.
-This is both frustrating and  time consuming. 
-MatchMyShade is here to change that.
+This is both frustrating and time consuming. 
 
-**MatchMyShade changes that.**
+
+**MatchMyShade is here to change that..**
 
 ---
 ## About The Product
@@ -90,9 +90,11 @@ MatchMyShade isn't just about finding foundation—it's about empowerment, conve
 
 ---
 
-Stay updated:
-For more information, shoot us an e-mail
-- Contact: ojepaagatha19@gmail.com
+## 📧 Get In Touch
+
+Want to stay updated or learn more about MatchMyShade?
+
+**Email us:** ojepaagatha19@gmail.com
 
 ---
 
@@ -110,5 +112,6 @@ Copyright © 2025 MatchMyShade. All rights reserved.
 
 ---
 
-  *Last updated: November 8 2025*
+*Last updated: November 8, 2025*
+
 **Made with 💜 for every shade**
