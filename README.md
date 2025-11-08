@@ -1,4 +1,4 @@
-# MatchMyShade 💄
+# MatchMyShade 
 
 ## Your Perfect Foundation Match, Powered by AI
 
@@ -6,17 +6,25 @@ MatchMyShade is an AI-powered mobile app that helps black and brown women find t
 
 ---
 
-## 🎯 The Problem We're Solving
+## The Problem We're Solving
 
-For decades, finding the right foundation shade has been a frustrating experience for black and brown women. According to a 2025 report by arbelle.ai, **53% of black consumers** say they always struggle to find beauty products that match their shade.
+For decades, black and brown women have struggled with lack of inclusion into different facets of life including in the beauty industry.
 
-Shopping online means guessing and hoping you get it right. Shopping in-store means sitting through countless patch tests. Either way, it's time-consuming, expensive, and often disappointing.
+For most of them, finding a foundation shade that perfectly matches their skin tone remains one of the biggest frustrations.
+In a 2025 report by arbelle.ai, about 53% of black consumers said they always find it difficult to get beauty products that match their shade.
+Women shopping for makeup products online mostly have to guess their shade and hope they get it right, especially when buying from a brand they haven’t previously used.  Even when visiting a physical makeup store, they have to sit through lots of patch tests or ‘swatches’ just to find their perfect shade. “I’ve gone through six or seven foundation swatches trying to find one that matches...” says a black female customer from a research conducted by McKinsey and Co.
+This is both frustrating and  time consuming. 
+MatchMyShade is here to change that.
 
 **MatchMyShade changes that.**
 
 ---
+## About The Product
+MatchMyShade is a digital tool that allows women to virtually try on various foundation shades to know their perfect match before walking into the store to get it or ordering online.
 
-## ✨ What We Do
+---
+
+##  What We Do
 
 MatchMyShade uses your phone's camera and advanced AI to:
 - **Scan your skin tone and undertone** in seconds
@@ -28,7 +36,7 @@ No more guessing. No more wasted money on wrong shades. Just your perfect match,
 
 ---
 
-## 👥 Who It's For
+##  Our Target Users
 
 ### Everyday Shoppers
 Women and girls (ages 16-45) shopping for foundation online or in-store who want to find their perfect shade quickly and confidently.
@@ -41,7 +49,7 @@ Inclusive makeup brands looking to integrate shade-matching technology into thei
 
 ---
 
-## 🚀 Key Features
+## Key Features (MVP)
 
 ### AI Face Scanner
 Our proprietary AI technology accurately detects your:
@@ -63,7 +71,7 @@ Save your matches, favorite brands, and shopping preferences for quick access.
 
 ---
 
-## 🛠️ Technologies We Use
+##  Technologies We Use
 
 - **Mobile Development:** React Native (iOS & Android)
 - **AI & Machine Learning:** TensorFlow Lite for on-device skin tone analysis
@@ -74,7 +82,7 @@ Save your matches, favorite brands, and shopping preferences for quick access.
 
 ---
 
-## 🌟 Why MatchMyShade Matters
+## Why MatchMyShade Matters
 
 Representation matters. Inclusion matters. Every woman deserves to feel beautiful and confident in her skin, and that starts with products made for her.
 
@@ -82,18 +90,13 @@ MatchMyShade isn't just about finding foundation—it's about empowerment, conve
 
 ---
 
-## 📱 Get Started
-
-**Coming Soon to iOS and App Store**
-
 Stay updated:
-- Follow us on Instagram: Instagram Page Coming Soon
-- Join our waitlist: [website coming soon]
+For more information, shoot us an e-mail
 - Contact: ojepaagatha19@gmail.com
 
 ---
 
-## 🤝 For Brands & Partners
+##  For Brands & Partners
 
 Interested in integrating MatchMyShade into your platform? We'd love to collaborate.
 
@@ -101,7 +104,7 @@ Reach out: ojepaagatha19@gmail.com
 
 ---
 
-## 📄 License
+## License
 
 Copyright © 2025 MatchMyShade. All rights reserved.
 
