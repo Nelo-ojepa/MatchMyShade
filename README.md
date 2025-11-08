@@ -97,7 +97,7 @@ Stay updated:
 
 Interested in integrating MatchMyShade into your platform? We'd love to collaborate.
 
-Reach out: partnerships@matchmyshade.com
+Reach out: ojepaagatha19@gmail.com
 
 ---
 
