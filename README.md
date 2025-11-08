@@ -59,7 +59,7 @@ MatchMyShade isn't just about finding foundation—it's about empowerment, conve
 ##  Our Target Users
 
 ### Everyday Shoppers
-Women and girls (ages 16-45) shopping for foundation online or in-store who want to find their perfect shade quickly and confidently.
+Women and girls (ages 16-45) shopping for foundation online or in-store who want to find their perfect shade quickly and conveniently.
 
 ### Makeup Artists
 Professional artists working with diverse clientele who need to match shades efficiently without time-consuming swatching.
