@@ -87,9 +87,9 @@ MatchMyShade isn't just about finding foundation—it's about empowerment, conve
 **Coming Soon to iOS and App Store**
 
 Stay updated:
-- Follow us on Instagram: @matchmyshade
+- Follow us on Instagram: Instagram Page Coming Soon
 - Join our waitlist: [website coming soon]
-- Contact: hello@matchmyshade.com
+- Contact: ojepaagatha19@gmail.com
 
 ---
 
