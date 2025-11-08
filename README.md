@@ -1,4 +1,4 @@
-# MatchMyShade <img width="732" height="1551" alt="image" src="https://github.com/user-attachments/assets/67c5eba6-eb31-42e1-b7a3-585760d42473" />
+# MatchMyShade 
 
 
 ## Your Perfect Foundation Match, Powered by AI
