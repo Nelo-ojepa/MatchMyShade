@@ -91,9 +91,7 @@ Save your matches, favorite brands, and shopping preferences for quick access.
 
 ---
 ### Product Wireframes
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+MMS Wireframe Screens.png"
 
 you can also view directly via this link: https://www.figma.com/design/7JkQsLqB7LUuHHOGqSyOQX/MatchMyShade?node-id=12-2&p=f&t=cDwymFzfQm7ynM5m-0
 
