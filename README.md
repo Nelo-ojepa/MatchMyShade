@@ -17,8 +17,7 @@ MatchMyShade is an AI-powered mobile app that helps black and brown women find t
 - [Product Wireframes](#product-wireframes)
 - [Technologies We Use](#technologies-we-use)
 - [Get In Touch](#-get-in-touch)
-- [For Brands & Partners](#for-brands--partners)
-- [License](#license)
+
 
 ---
 ## The Problem We're Solving
@@ -39,7 +38,7 @@ MatchMyShade is a digital tool that allows women to virtually try on various fou
 
 ---
 
-##  What We Do
+##  What The Product Does
 
 MatchMyShade uses your phone's camera and advanced AI to:
 - **Scan your skin tone and undertone** in seconds
@@ -50,7 +49,13 @@ MatchMyShade uses your phone's camera and advanced AI to:
 No more guessing. No more wasted money on wrong shades. Just your perfect match, every time.
 
 ---
+## Why MatchMyShade Matters
 
+Representation matters. Inclusion matters. Every woman deserves to feel beautiful and confident in her skin, and that starts with products made for her.
+
+MatchMyShade isn't just about finding foundation—it's about empowerment, convenience, and celebrating the beautiful diversity of black and brown skin tones.
+
+---
 ##  Our Target Users
 
 ### Everyday Shoppers
@@ -86,9 +91,9 @@ Save your matches, favorite brands, and shopping preferences for quick access.
 
 ---
 ### Product Wireframes
-<img width="2712" height="1119" alt="image" src="https://github.com/user-attachments/assets/f11372a3-aa6c-4a93-9e90-719eae59ccc9" />
-<img width="3213" height="1230" alt="image" src="https://github.com/user-attachments/assets/ac3494b7-0b5a-46ac-9dd1-fdc70169b02f" />
-<img width="1065" height="1125" alt="image" src="https://github.com/user-attachments/assets/6c93727b-72b1-43ee-a39e-6f5faa2d2808" />
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
 
 you can also view directly via this link: https://www.figma.com/design/7JkQsLqB7LUuHHOGqSyOQX/MatchMyShade?node-id=12-2&p=f&t=cDwymFzfQm7ynM5m-0
 
@@ -102,13 +107,6 @@ you can also view directly via this link: https://www.figma.com/design/7JkQsLqB7
 - **Cloud Services:** AWS for hosting and file storage
 - **Image Processing:** OpenCV for camera integration and image analysis
 
----
-
-## Why MatchMyShade Matters
-
-Representation matters. Inclusion matters. Every woman deserves to feel beautiful and confident in her skin, and that starts with products made for her.
-
-MatchMyShade isn't just about finding foundation—it's about empowerment, convenience, and celebrating the beautiful diversity of black and brown skin tones.
 
 ---
 
@@ -120,19 +118,6 @@ Want to stay updated or learn more about MatchMyShade?
 
 ---
 
-##  For Brands & Partners
-
-Interested in integrating MatchMyShade into your platform? We'd love to collaborate.
-
-Reach out: ojepaagatha19@gmail.com
-
----
-
-## License
-
-Copyright © 2025 MatchMyShade. All rights reserved.
-
----
 
 *Last updated: November 8, 2025*
 
